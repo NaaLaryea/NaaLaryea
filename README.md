@@ -85,7 +85,8 @@ I have experience and track record in web and mobile applications development, i
 
 ## 📈 GitHub Stats
 
-[![NaaLaryea's github stats](https://github-readme-stats.vercel.app/api?username=NaaLaryea)](https://github.com/NaaLaryea)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaaLaryea&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/NaaLaryea)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaaLaryea&layout=compact)](https://github.com/NaaLaryea)
 
