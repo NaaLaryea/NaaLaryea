@@ -32,7 +32,7 @@ I have experience and track record in web and mobile applications development, i
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/dorcaslaryea/"><img align="left" src="https://raw.githubusercontent.com/NaaLaryea/NaaLaryea/main/images/linkedin.png" alt="Naa Laryea | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/messages/3233779238-3233779238"><img align="left" src="https://raw.githubusercontent.com/NaaLaryea/NaaLaryea/main/images/twitter.png" alt="Naa Rogue | Twitter" width="21px"/></a>
+<a href="https://twitter.com/naa_rogue"><img align="left" src="https://raw.githubusercontent.com/NaaLaryea/NaaLaryea/main/images/twitter.png" alt="Naa Rogue | Twitter" width="21px"/></a>
 
 <!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a> -->
 
