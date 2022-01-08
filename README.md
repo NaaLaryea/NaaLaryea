@@ -38,7 +38,7 @@ I have experience and track record in web and mobile applications development, i
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working on:
 
 - My old projects
 - Open Source Projects
@@ -46,7 +46,7 @@ I have experience and track record in web and mobile applications development, i
 - My next blog
 - My JavaScript skill
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning:
 
 - JavaScript (a daily learning experience)
 - Ruby (Always looking to update my Rails knowledge)
