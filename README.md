@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 I have experience and track record in web and mobile applications development, integration and service delivery. I have also found new interest in Open Source and seeking to actively make contributions to the Community.
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/dorcaslaryea/"><img align="left" src="https://raw.githubusercontent.com/NaaLaryea/NaaLaryea/main/images/linkedin.png" alt="Naa Laryea | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/naa_rogue"><img align="left" src="https://raw.githubusercontent.com/NaaLaryea/NaaLaryea/main/images/twitter.png" alt="Naa Rogue | Twitter" width="21px"/></a>
