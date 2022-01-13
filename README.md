@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </h3>
 
 <h2 align="center">
-    I am a highly motivated self taught Fullstack Web Developer 💻
+    I am a highly motivated, self taught Fullstack Web Developer 💻
 </h2>
 
 I have experience and track record in web and mobile applications development, integration and service delivery. I have also found new interest in Open Source and seeking to actively make contributions to the Community.
